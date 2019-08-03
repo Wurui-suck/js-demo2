@@ -1,0 +1,19 @@
+.demo    {
+    border: 1px solid red ;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin: 0px;
+    border-radius: 50%
+}
+
+body{
+    box-sizing: border-box;
+    height: 100vh;
+    border: 1px solid green
+    
+}
+*{
+    margin: 0px;
+    padding: 0px
+}
